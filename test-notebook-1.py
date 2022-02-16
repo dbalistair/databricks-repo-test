@@ -3,4 +3,8 @@
 
 # COMMAND ----------
 
+import test_python
+
+# COMMAND ----------
+
 
