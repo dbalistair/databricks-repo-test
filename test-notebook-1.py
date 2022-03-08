@@ -6,8 +6,13 @@
 
 from test_python import *
 
-print(hello())
+print(hello("tristen"))
 
 # COMMAND ----------
 
+x = 1
+y = 2
 
+z = add_them(x, y)
+
+print(z)
