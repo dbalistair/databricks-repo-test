@@ -16,3 +16,11 @@ y = 2
 z = add_them(x, y)
 
 print(z)
+
+# COMMAND ----------
+
+print("hi")
+
+# COMMAND ----------
+
+
