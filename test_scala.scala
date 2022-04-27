@@ -1,6 +1,6 @@
-// Databricks notebook source
+// I edited this Databricks notebook source
 print("this is a scala notebook")
 
-// COMMAND ----------
+// I edited this COMMAND ----------
 
 
